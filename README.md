@@ -1,4 +1,4 @@
-### Hello there! My name is João | Economist | Data Science & Machine Learning Student 📊
+### Hello there! My name is João | Economist 💲 | Data Science 📊 & Machine Learning ⚙️ Student 
 ------
 
  
@@ -31,5 +31,7 @@
 </div>
   
 -------
+ 
+ 
 
 
