@@ -1,4 +1,4 @@
-### Hello there! My name is João | Economist 💲 | Data Science 📊 & Machine Learning ⚙️ Student 
+## Hello there! My name is João | Economist 💲 | Data Science 📊 & Machine Learning ⚙️ Student 
 ------
 
  
@@ -31,6 +31,30 @@
 </div>
   
 -------
+
+ 
+ ### 🤫 About Me 
+   
+   
+ I'm a 24 old brazilian economist. Currently working at the largest bank in latin america. Some people may call me a Pythonista 🐍
+ - There is always something new to learn
+ - Looking for the most efficient way to solve a problem
+ - Together to the top
+
+##
+
+ ### 🥰 Les Passions
+ - Spendig quality time with my dog 
+ - F1 🏎
+ - Reading & Games
+ - Climbing mountains
+ 
+##
+
+### 🤯 Think About it
+
+"If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions."
+                                                                                                              -Albert, Einstein
  
  
 
