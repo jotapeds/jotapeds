@@ -35,7 +35,7 @@
  ### 🤫 About Me 
    
    
- I'm a 24 old brazilian economist. Currently working at the largest bank in latin america. Some people may call me a Pythonista 🐍
+ I'm a 24 old brazilian economist. Currently working at the largest bank in latin america.
  - There is always something new to learn
  - Looking for the most efficient way to solve a problem
  - Together to the top
