@@ -1,4 +1,4 @@
-## Hello there! My name is João | Economist 💲 | Data Science 📊 & Machine Learning ⚙️ Student 
+## Hello there! My name is João | Multimodal Data Scientist in Itaú 
 ------
 
  
@@ -32,17 +32,17 @@
 -------
 
  
- ### 🤫 About Me 
+ ### About Me 
    
    
- I'm a 24 old brazilian economist. Currently working at the largest bank in latin america.
+ I'm a 28 old brazilian Data Scientist. Currently working at the largest bank in latin america.
  - There is always something new to learn
  - Looking for the most efficient way to solve a problem
  - Together to the top
 
 ##
 
- ### 🥰 Les Passions
+ ### Les Passions
  - Spendig quality time with my dog 
  - F1 🏎
  - Reading & Games
@@ -50,7 +50,7 @@
  
 ##
 
-### 🤯 Think About it
+### Think About it
 
 "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions."
                                                                                                               -Albert, Einstein
